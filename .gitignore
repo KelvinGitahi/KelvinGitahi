@@ -1,0 +1,6 @@
+.env
+composer.lock
+vendor
+contact
+LOCAL_ONLY_README.md
+*.zip
