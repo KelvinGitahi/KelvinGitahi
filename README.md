@@ -20,7 +20,7 @@ const Kelvin = {
   ],
   "links": {
     "x_twitter": "@thecybermoran",
-    "github": "@G-bit94"
+    "github": "@KelvinGitahi"
   }
 }
 
